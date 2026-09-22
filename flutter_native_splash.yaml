@@ -1,0 +1,7 @@
+flutter_native_splash:
+  color: "#000000" # Цвет фона заставки (черный, под стиль твоего приложения)
+  image: assets/images/splash.png # Путь к твоему логотипу
+  android_12: # Настройка для новых Android
+    image: assets/images/splash.png
+    color: "#000000"
+    

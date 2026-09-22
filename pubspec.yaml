@@ -1,0 +1,31 @@
+name: dream_weaver
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+2
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.1
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.3.2
+  image_picker: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"
+  adaptive_icon_background: "#000000"
+  adaptive_icon_foreground: "assets/images/icon.png"
+
+  flutter:
+  uses-material-design: true  # Эта строка ОБЯЗАТЕЛЬНО должна быть true
