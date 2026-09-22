@@ -1,6 +1,8 @@
 # Dream Weaver 🌙
 
-<img width="1080" height="1920" alt="1 (1)" src="https://github.com/user-attachments/assets/14d8ece3-494e-4c36-a992-8a0a48a3de33" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14d8ece3-494e-4c36-a992-8a0a48a3de33" width="360" alt="Dream Weaver Banner" />
+</p>
 
 Мобильное приложение для осознанных сновидений: личный дневник снов и справочник «Сонариум».
 
